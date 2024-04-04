@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Notebook",
+    "accumulated": 500000,
+    "cost": 1350000
+  },
+  {
+    "id": "2",
+    "name": "Headset",
+    "accumulated": 25000,
+    "cost": 50000
+  },
+  {
+    "id": "3",
+    "name": "Tablet",
+    "accumulated": 50000,
+    "cost": 350000
+  },
+  {
+    "id": "4",
+    "name": "Celular",
+    "accumulated": 175000,
+    "cost": 399999
+  },
+  {
+    "id": "5",
+    "name": "PC",
+    "accumulated": 100000,
+    "cost": 300000
+  }
+]

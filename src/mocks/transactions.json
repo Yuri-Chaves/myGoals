@@ -1,0 +1,32 @@
+[
+  {
+    "type": "withdrawal",
+    "value": 17500,
+    "goal": "Celular",
+    "date": "25/03/2024"
+  },
+  {
+    "type": "deposit",
+    "value": 15000,
+    "goal": "Headset",
+    "date": "01/04/2024"
+  },
+  {
+    "type": "deposit",
+    "value": 150000,
+    "goal": "Notebook",
+    "date": "01/03/2024"
+  },
+  {
+    "type": "withdrawal",
+    "value": 100000,
+    "goal": "PC",
+    "date": "10/02/2024"
+  },
+  {
+    "type": "deposit",
+    "value": 30000,
+    "goal": "Tablet",
+    "date": "01/01/2024"
+  }
+]
