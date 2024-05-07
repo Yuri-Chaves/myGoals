@@ -1,3 +1,5 @@
+// Icon exports
+export * from './tsx/Teste'
 export * from './tsx/ArrowLeft'
 export * from './tsx/Close'
 export * from './tsx/Currency'

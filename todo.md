@@ -1,0 +1,5 @@
+- Bug quando confirma com o teclado aberto, o bottomSheet fecha, mas o teclado não.
+- validar edição para não permitir deixar cost < accumulated
+- criar a troca de theme
+- criar splash screen e icon
+- criar fluxo de onBoarding

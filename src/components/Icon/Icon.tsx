@@ -36,6 +36,8 @@ export function Icon({
 }
 
 const iconRegistry = {
+  // Use Icon from Assets
+	teste: icons.Teste,
   arrowLeft: icons.ArrowLeft,
   close: icons.Close,
   currency: icons.Currency,
